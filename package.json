@@ -1,0 +1,19 @@
+{
+  "name": "pwatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevaspan/pwatest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sevaspan/pwatest/issues"
+  },
+  "homepage": "https://github.com/sevaspan/pwatest#readme"
+}
